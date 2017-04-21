@@ -27,7 +27,7 @@ This small extension will help you quickly and conveniently work with lists
   <p><b>hoverClass</b> - name of the class that will be assigned to the element when hovering,</p>
   <p><b>selectedClass</b> - name of the class that will be assigned to the element after selecting,</p>
   <p><b>multiselect</b> - allows you to select multiple items in the list,</p>
-  <p><b>thisparent</b> - allows you to select multiple items in the list,</p>
+  <p><b>thisparent</b> - current selector is the wrapper of the list items, otherwise it is the element of the list itself,</p>
   <p><b>notoverselected</b> - Don't hover the selected item,</p>
   <p><b>allowdiselect</b> - enable unselection,</p>
   <p><b>autohide</b> - hide list after selecting,</p>
