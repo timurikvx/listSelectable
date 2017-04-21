@@ -37,3 +37,5 @@ This small extension will help you quickly and conveniently work with lists
   <p><b>mouseover</b> - (callback) your function hovering over an item in a list,</p>
   <p><b>mouseleave</b> - (callback) your function hovering leave an item in a list</p>
   
+  # Author
+  Timur, creater of the <a href="https://devdesire.ru">devdesire.ru</a> used this extension
