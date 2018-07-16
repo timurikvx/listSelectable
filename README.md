@@ -38,4 +38,4 @@ This small extension will help you quickly and conveniently work with lists
   <p><b>mouseleave</b> - (callback) your function hovering leave an item in a list</p>
   
   # Author
-  Timur, creater of the <a href="https://devdesire.ru">devdesire.ru</a> using this extension
+  Timur, creater of the <a href="https://devdesire.com">devdesire.com</a> using this extension
